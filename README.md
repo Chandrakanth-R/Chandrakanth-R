@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chandrakanth-R
 - 👀 I’m interested in java, k8s, docker, helm
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Telecom domain concepts
 - 📫 How to reach me chandrakanth.rajappa@gmail.com
 
 <!---
